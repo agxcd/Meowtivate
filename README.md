@@ -11,12 +11,14 @@ Enjoy!
 
 ## Peekaboo
 
-!["Welcome"](https://github.com/agxcd/meowtivate/blob/main/docs/Welcome.png?raw=true)
-!["Dashboard"](https://github.com/agxcd/meowtivate/blob/main/docs/Dashboard.png?raw=true)
-!["Lists"](https://github.com/agxcd/meowtivate/blob/main/docs/Lists.png?raw=true)
-!["Collections"](https://github.com/agxcd/meowtivate/blob/main/docs/Collections.png?raw=true)
-!["Shop"](https://github.com/agxcd/meowtivate/blob/main/docs/Shop.png?raw=true)
-!["Inventory"](https://github.com/agxcd/meowtivate/blob/main/docs/Inventory.png?raw=true)
+!["Welcome"](https://github.com/monica-li205/meowtivate/blob/main/docs/meowtivate-welcome.png?raw=true)
+!["Dashboard"](https://github.com/monica-li205/meowtivate/blob/main/docs/meowtivate-dashboard.png?raw=true)
+!["Lists"](https://github.com/monica-li205/meowtivate/blob/main/docs/meowtivate-lists.png?raw=true)
+!["Collections"](https://github.com/monica-li205/meowtivate/blob/main/docs/meowtivate-collection.png?raw=true)
+!["Shop"](https://github.com/monica-li205/meowtivate/blob/main/docs/meowtivate-shop.png?raw=true)
+!["Inventory"](https://github.com/monica-li205/meowtivate/blob/main/docs/meowtivate-inventory.png?raw=true)
+!["Reminder"](https://github.com/monica-li205/meowtivate/blob/main/docs/meowtivate-reminder.png?raw=true)
+!["Unlock"](https://github.com/monica-li205/meowtivate/blob/main/docs/meowtivate-lists(unlocked%20cat).png?raw=true)
 
 ## Special Thank you!
 
